@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "587837250609",
+    "firebase_url": "https://aircare-27a48.firebaseio.com",
+    "project_id": "aircare-27a48",
+    "storage_bucket": "aircare-27a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587837250609:android:9f5ab02ef93815a6",
+        "android_client_info": {
+          "package_name": "com.appdnd.firebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587837250609-27m7rv9d1dl9os467h9ct1c2tnmf1jiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5LEaLEz76IC0Fquy_0aDX6_l6qCU0y14"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587837250609:android:b5d73243ecbc5dff",
+        "android_client_info": {
+          "package_name": "com.example.airflut2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587837250609-27m7rv9d1dl9os467h9ct1c2tnmf1jiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5LEaLEz76IC0Fquy_0aDX6_l6qCU0y14"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587837250609:android:0b4cad49581a291e",
+        "android_client_info": {
+          "package_name": "eu.dvit.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587837250609-oksoc7uqv5fr4pevtrqutlo94vtn8e8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eu.dvit.myapplication",
+            "certificate_hash": "8aceda5811b7b38ca05faa2c6be6c8a092357bd9"
+          }
+        },
+        {
+          "client_id": "587837250609-27m7rv9d1dl9os467h9ct1c2tnmf1jiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5LEaLEz76IC0Fquy_0aDX6_l6qCU0y14"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587837250609-27m7rv9d1dl9os467h9ct1c2tnmf1jiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
