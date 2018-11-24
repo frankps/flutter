@@ -55,14 +55,6 @@ class _NoteScreenState extends State<NoteScreen> {
                   });
                 } else {
 
-/*
-
-      final Note note = new Note(ds.documentID, title, description);
-      final Map<String, dynamic> data = note.toMap();
- 
-*/
-
-
                   db.createObject(Note.fromValues(_titleController.text, _descriptionController.text)).then((_) {
                     Navigator.pop(context);
                   });

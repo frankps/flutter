@@ -1,3 +1,7 @@
+# Config file
+android/app/google-services.json
+
+
 # Miscellaneous
 *.class
 *.lock
