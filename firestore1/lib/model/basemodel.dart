@@ -14,6 +14,6 @@ abstract class BaseModel {
 
   fromMap(Map<String, dynamic> map);
 
-  /// In order to create a new object of same type based on exiting one 
+  /// In order to create a new object of same type based on exiting one: ok
   BaseModel createNew();
 }
